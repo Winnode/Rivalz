@@ -29,7 +29,11 @@ npm fund
 echo "Installing rivalz-node-cli..."
 npm install -g rivalz-node-cli
 
-# Step 4: Run rClient
+# Step 4: Install rClient CLI
+echo "Installing rivalz-node-cli..."
+rivalz update-version
+
+# Step 5: Run rClient
 echo "Running rivalz-node-cli..."
 rivalz run
 
