@@ -38,3 +38,7 @@ echo "Running rivalz-node-cli..."
 rivalz run
 
 echo "Setup completed successfully."
+
+rm -rf Rivalz.sh
+
+echo "Setup completed."
