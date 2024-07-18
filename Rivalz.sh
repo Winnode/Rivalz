@@ -24,6 +24,7 @@ npm install -g npm@10.8.2
 
 # Optional: Fund the npm package maintainers (only if needed, can be removed)
 npm fund
+sudo apt update
 
 # Step 3: Install rClient CLI
 echo "Installing rivalz-node-cli..."
