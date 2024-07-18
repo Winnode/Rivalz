@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Starting the setup process..."
-
+rm -rf Rivalz.sh
 # Step 1: Download and install NVM
 echo "Downloading and installing NVM..."
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
